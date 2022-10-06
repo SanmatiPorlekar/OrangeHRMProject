@@ -1,0 +1,70 @@
+06:10:2022 - 14:56:25.845 INFO combinedTests.CombinedTests [main] - SetUp Started
+06:10:2022 - 14:56:36.386 INFO combinedTests.CombinedTests [main] - Login completed
+06:10:2022 - 14:56:47.268 INFO combinedTests.CombinedTests [main] - Job Title Added
+06:10:2022 - 14:56:54.486 INFO combinedTests.CombinedTests [main] - Organization search is completed
+06:10:2022 - 14:57:03.483 INFO combinedTests.CombinedTests [main] - Adding location of organization is completed
+06:10:2022 - 14:58:01.946 INFO combinedTests.CombinedTests [main] - admin Qualification skill is added
+06:10:2022 - 14:58:21.072 INFO combinedTests.CombinedTests [main] - Admin Nationalitied is Added &Edited & Deleted
+06:10:2022 - 14:58:47.723 INFO pages.LeavePage [main] - Leave Type is Applied
+06:10:2022 - 14:58:52.831 INFO pages.LeavePage [main] - Duration is set
+06:10:2022 - 14:59:35.050 INFO pages.LeavePage [main] - Entitlement is set
+06:10:2022 - 14:59:51.505 INFO pages.LeavePage [main] - Leave List is set
+06:10:2022 - 15:00:17.114 INFO pages.TimePage [main] - Punch In
+06:10:2022 - 15:00:17.156 INFO pages.TimePage [main] - Punch Out
+06:10:2022 - 15:00:36.984 INFO pages.TimePage [main] - Attendance is set
+06:10:2022 - 15:00:50.871 INFO pages.TimePage [main] - Scroll Worked
+06:10:2022 - 15:00:50.872 INFO pages.TimePage [main] - Report is set
+06:10:2022 - 15:02:13.960 INFO pages.TimePage [main] - TimeSheet is set
+06:10:2022 - 15:02:17.091 INFO combinedTests.CombinedTests [main] - Employee_Name is given
+06:10:2022 - 15:02:17.690 INFO combinedTests.CombinedTests [main] - Job_Title is Selected
+06:10:2022 - 15:02:18.272 INFO combinedTests.CombinedTests [main] - Location is Selected
+06:10:2022 - 15:09:56.555 INFO combinedTests.CombinedTests [main] - SetUp Started
+06:10:2022 - 15:10:22.617 INFO combinedTests.CombinedTests [main] - Login completed
+06:10:2022 - 15:11:51.800 INFO combinedTests.CombinedTests [main] - SetUp Started
+06:10:2022 - 15:12:08.524 INFO combinedTests.CombinedTests [main] - Login completed
+06:10:2022 - 15:12:19.764 INFO combinedTests.CombinedTests [main] - Job Title Added
+06:10:2022 - 15:12:26.964 INFO combinedTests.CombinedTests [main] - Organization search is completed
+06:10:2022 - 15:12:36.366 INFO combinedTests.CombinedTests [main] - Adding location of organization is completed
+06:10:2022 - 15:13:38.616 INFO combinedTests.CombinedTests [main] - admin Qualification skill is added
+06:10:2022 - 15:14:03.223 INFO combinedTests.CombinedTests [main] - Admin qualification education is added
+06:10:2022 - 15:14:21.913 INFO combinedTests.CombinedTests [main] - Admin Nationalitied is Added &Edited & Deleted
+06:10:2022 - 15:14:48.873 INFO pages.LeavePage [main] - Leave Type is Applied
+06:10:2022 - 15:14:53.983 INFO pages.LeavePage [main] - Duration is set
+06:10:2022 - 15:16:12.822 INFO pages.TimePage [main] - Punch In
+06:10:2022 - 15:16:12.870 INFO pages.TimePage [main] - Punch Out
+06:10:2022 - 15:16:33.465 INFO pages.TimePage [main] - Attendance is set
+06:10:2022 - 15:16:47.364 INFO pages.TimePage [main] - Scroll Worked
+06:10:2022 - 15:16:47.365 INFO pages.TimePage [main] - Report is set
+06:10:2022 - 15:18:20.990 INFO combinedTests.CombinedTests [main] - Employee_Name is given
+06:10:2022 - 15:18:21.590 INFO combinedTests.CombinedTests [main] - Job_Title is Selected
+06:10:2022 - 15:18:22.174 INFO combinedTests.CombinedTests [main] - Location is Selected
+06:10:2022 - 15:33:41.031 INFO tests.AdminPageTest [main] - SetUp Started
+06:10:2022 - 15:34:05.767 INFO tests.AdminPageTest [main] - Login completed
+06:10:2022 - 15:34:17.750 INFO tests.AdminPageTest [main] - Job Title Added
+06:10:2022 - 15:34:25.465 INFO tests.AdminPageTest [main] - Organization search is completed
+06:10:2022 - 15:34:35.597 INFO tests.AdminPageTest [main] - Adding location of organization is completed
+06:10:2022 - 15:34:46.621 INFO tests.AdminPageTest [main] - admin User Management is completed
+06:10:2022 - 15:35:13.178 INFO tests.AdminPageTest [main] - admin Qualification skill is added
+06:10:2022 - 15:35:35.127 INFO tests.AdminPageTest [main] - Admin qualification education is added
+06:10:2022 - 15:36:41.725 INFO tests.PIMPageTest [main] - Login Completed
+06:10:2022 - 15:37:43.077 INFO tests.PIMPageTest [main] - PIM-Seach Employee is Searched
+06:10:2022 - 15:37:46.417 INFO tests.PIMPageTest [main] - PIM Report is added
+06:10:2022 - 15:37:56.497 INFO tests.PIMPageTest [main] - PIM Report is serached
+06:10:2022 - 15:38:06.428 INFO tests.LeavePageTest [main] - Login Completed
+06:10:2022 - 15:38:35.994 INFO pages.LeavePage [main] - Leave Type is Applied
+06:10:2022 - 15:38:41.105 INFO pages.LeavePage [main] - Duration is set
+06:10:2022 - 15:39:23.319 INFO pages.LeavePage [main] - Entitlement is set
+06:10:2022 - 15:39:39.538 INFO pages.LeavePage [main] - Leave List is set
+06:10:2022 - 15:39:49.509 INFO tests.TimePageTest [main] - Login Completed
+06:10:2022 - 15:40:09.098 INFO pages.TimePage [main] - Punch In
+06:10:2022 - 15:40:09.142 INFO pages.TimePage [main] - Punch Out
+06:10:2022 - 15:41:44.267 INFO pages.TimePage [main] - TimeSheet is set
+06:10:2022 - 15:41:52.340 INFO tests.PerformancePageTest [main] - Login Completed
+06:10:2022 - 15:42:21.312 INFO pages.PerformancePage [main] - Performance is set
+06:10:2022 - 15:42:39.320 INFO pages.PerformancePage [main] - Employee name is set
+06:10:2022 - 15:43:17.900 INFO pages.PerformancePage [main] - My Tracker is set
+06:10:2022 - 15:43:23.686 INFO tests.DirectoryPageTest [main] - logined into OrangeHRM
+06:10:2022 - 15:43:27.664 INFO tests.DirectoryPageTest [main] - Employee_Name is given
+06:10:2022 - 15:43:28.267 INFO tests.DirectoryPageTest [main] - Job_Title is Selected
+06:10:2022 - 15:43:28.832 INFO tests.DirectoryPageTest [main] - Location is Selected
+06:10:2022 - 15:43:32.403 INFO tests.DirectoryPageTest [main] - employee details are displayed
